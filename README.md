@@ -1,7 +1,4 @@
 # ![https://davidhernandezm.com](https://www.davidhernandezn.com/wp-content/uploads/2021/11/logo_home.png) Hola!!, Soy David Hernández
-### 📱 Desarrollador Móvil Android 
-
-
 ![https://github.com/Davidhernandezn](https://github.com/Davidhernandezn/Davidhernandezn/blob/main/Banner_github_davidhernandezn.png)
 
 - 👀 I’m interested in ...
