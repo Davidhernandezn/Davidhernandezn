@@ -1,4 +1,4 @@
-# ![https://davidhernandezm.com](https://www.davidhernandezn.com/wp-content/uploads/2021/11/logo_home.png) Hola!!, Soy David Hernández
+# ![](https://www.davidhernandezn.com/wp-content/uploads/2021/11/logo_home.png) Hola!!, Soy David Hernández
 ![https://github.com/Davidhernandezn](https://github.com/Davidhernandezn/Davidhernandezn/blob/main/Banner_github_davidhernandezn.png)
 
 
